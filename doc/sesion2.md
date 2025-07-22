@@ -7,4 +7,5 @@
 5) Usamos el comando "git remote -v" y nos aseguramos que hayan dos direcciones, una con fetch y otra con push.
 6) Hicimos el comando "git push origin -u" para autenticarnos con la cuenta de GitHub y empezar a subir los cambios.
 7) Para finalmente subir los cambios, hacemos "git push" y recargamos la pagina del repositorio en GitHub para ver los cambios.
+Gracias por copiar mi texto ;)
 ![alt text](image.png)
